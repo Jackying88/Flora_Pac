@@ -1,0 +1,13 @@
+ImportError: No module named argparse
+如果有root权限，可以运行：
+easy_install argparse
+easy_install jsmin
+
+git: command not found
+解决方法
+
+Centos下使用：
+yum install git -y
+或者
+yum install git -y
+
